@@ -5,6 +5,8 @@ public class HeroNode {
     String name;
     HeroNode next;
 
+    public HeroNode(){}
+
     public HeroNode(int sort, String name) {
         this.sort = sort;
         this.name = name;
