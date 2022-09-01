@@ -54,7 +54,7 @@ public class SinglyLinkedListInterviewQuestions {
 //        System.out.println(newHead.next.next.next.toString());
 
 
-        LinkedList temp = new LinkedList();
+
     }
 }
 

@@ -144,11 +144,9 @@ public class SinglyLinkedList {
         }
 
         HeroNode dummyNode = head.next; //这里有next 是因为上面判断了不为空 那么 .next 为下一个节点
-        while (true) {
-            if (dummyNode == null) {
-                //System.out.println(dummyNode.toString());
-                break;
-            }
+
+        //System.out.println(dummyNode.toString());
+        while (dummyNode != null) {
             System.out.println(dummyNode.toString());
             dummyNode = dummyNode.next;
         }
