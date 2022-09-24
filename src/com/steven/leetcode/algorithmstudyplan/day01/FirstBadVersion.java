@@ -1,4 +1,4 @@
-package com.steven.leetcode.algorithmstudyplan;
+package com.steven.leetcode.algorithmstudyplan.day01;
 
 
 /*
@@ -20,7 +20,6 @@ public class FirstBadVersion {
     //  binary search -----  recursive implementation
 
     public static int firstBadVersion(int n) {
-        if(isBadVersion(n)) return n;
-        
+       return -1;
     }
 }

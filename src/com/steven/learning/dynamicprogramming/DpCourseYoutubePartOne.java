@@ -5,11 +5,12 @@ import java.util.HashMap;
 
 /*
  A very popular tutorial from YouTube on topic of DP
+ This is part one of it, which uses Memoization Strategy to solve problems
 
- https://www.youtube.com/watch?v=oBt53YbR9Kk
+ * link : https://www.youtube.com/watch?v=oBt53YbR9Kk
 
  */
-public class DpCourseYoutube {
+public class DpCourseYoutubePartOne {
     public static void main(String[] args) {
 
         // First example

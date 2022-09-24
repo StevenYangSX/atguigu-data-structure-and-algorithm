@@ -1,4 +1,4 @@
-package com.steven.leetcode.algorithmstudyplan;
+package com.steven.leetcode.algorithmstudyplan.day01;
 
 /*
     leetcode study-plan Day1 Q1
